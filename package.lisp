@@ -1,5 +1,10 @@
 ;;;; package.lisp
 
 (defpackage #:slad
-  (:use #:cl))
+  (:use #:cl)
+  (:export slad)
+  )
+
+
+
 
