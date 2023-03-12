@@ -1,6 +1,6 @@
 ;;;; package.lisp
 
-(defpackage #:slad
+(defpackage :slad
   (:use #:cl)
   (:export slad)
   (:export help)

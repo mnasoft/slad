@@ -1,6 +1,6 @@
 ;;;; slad.lisp
 
-(in-package #:slad)
+(in-package :slad)
 
 ;;; "slad" goes here. Hacks and glory await!
 
@@ -29,7 +29,7 @@
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-(in-package #:cl-user)
+(in-package :cl-user)
 
 (defun slad () (slad:slad))
 
