@@ -7,6 +7,9 @@
   (:export *slad-home*)
   )
 
+(in-package :slad)
+  
+
 
 
 
